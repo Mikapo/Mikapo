@@ -15,7 +15,7 @@
 - ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## Contact information:
-**Email** mika.peltola3@gmail.com     
+**Email:** mika.peltola3@gmail.com     
 **Discord:** Mikapo#4545
 
 <!--
